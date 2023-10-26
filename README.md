@@ -1,7 +1,7 @@
 
 ![CI CPU testing](https://github.com/ultralytics/yolov5/workflows/CI%20CPU%20testing/badge.svg)
 
-A modification of [https://github.com/ultralytics/yolov5/releases/tag/v4.0](YOLOv5 v4.0) 
+A modification of [YOLOv5 v4.0](https://github.com/ultralytics/yolov5/releases/tag/v4.0) 
 
 
 ## Requirements
